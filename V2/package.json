@@ -1,0 +1,32 @@
+{
+  "name": "lumberquack",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Lumberquack v2 (Remake)",
+  "keywords": [
+    "Phaser",
+    "Game",
+    "Typescript"
+  ],
+  "homepage": "https://github.com/Walabrolu4/Lumberquack#readme",
+  "bugs": {
+    "url": "https://github.com/Walabrolu4/Lumberquack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walabrolu4/Lumberquack.git"
+  },
+  "license": "MIT",
+  "author": "kaushik paddy",
+  "type": "commonjs",
+  "main": "main.ts",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "phaser": "^3.88.2",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
