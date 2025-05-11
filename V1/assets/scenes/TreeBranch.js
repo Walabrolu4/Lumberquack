@@ -1,7 +1,3 @@
-/**
- *
- */
-
 class TreeBranch extends Phaser.GameObjects.Sprite 
 {
 

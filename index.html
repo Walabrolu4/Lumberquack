@@ -1,27 +1,75 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lumber Quack</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #857474;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+        padding-bottom: 40px;
+      }
 
-<head>
-	<meta charset="UTF-8" />
-	<meta name=viewport content="width=device-width, initial-scale=1">
+      h1 {
+        margin-bottom: 40px;
+        font-size: 3em;
+        color: #333;
+      }
 
-	<title>LumberQuack</title>
+      .button-container {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
 
-	<script src="lib/phaser.js"></script>
-	<script src="main.js"></script>
+      a.button {
+        padding: 20px 40px;
+        font-size: 1.5em;
+        background-color: #007bff;
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+        transition: background-color 0.3s ease;
+      }
 
-	<style>
-		body 
-		{
-			background: black;
-			margin: 0;
-			padding: 0;
-		}
-	</style>
-</head>
+      a.button:hover {
+        background-color: #0056b3;
+      }
 
-<body>
-	<div id="game-container">
-	</div>
-</body>
+      .footer {
+        display: flex;
+        align-items: center; /* vertical centering */
+        justify-content: center; /* horizontal centering */
+        height: 100px; /* or whatever your footer height is */
+      }
+      .footer-logo {
+        max-height: 80%; /* optional: scales the image to fit nicely */
+        padding-right: 5%;
+      }
+      #underConstruction {
+        text-decoration: line-through;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Lumber Quack</h1>
+    <h2>Pick A Version</h2>
+    <div class="button-container">
+      <a class="button" href="V1/index.html">V1 - 2018</a>
+      <a id="underConstruction" class="button" href="https://example.com/page2"
+        >🚧 V2 Under Construction - 2025 🚧</a
+      >
+    </div>
+    <div class="footer">
+      <img class="footer-logo"  alt="logo" src="assets/images/DmsLogoV4_32.png" />DMS Games 2025
+    </div>
+  </body>
 </html>
