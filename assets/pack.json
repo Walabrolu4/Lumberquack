@@ -1,0 +1,58 @@
+{
+  "section1": {"files": [
+    {
+      "type": "sceneFile",
+      "key": "Scene1",
+      "url": "assets/scenes/Scene1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "assets/atlas/textures.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "script",
+      "key": "Player",
+      "url": "assets/scenes/Player.js"
+    },
+    {
+      "type": "script",
+      "key": "Tree",
+      "url": "assets/scenes/Tree.js"
+    },
+    {
+      "type": "script",
+      "key": "TreeBranch",
+      "url": "assets/scenes/TreeBranch.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "MenuAtals",
+      "url": "assets/atlas/MenuAnim/MenuAtals.json",
+      "path": "assets/atlas/MenuAnim"
+    },
+    {
+      "type": "sceneFile",
+      "key": "startScreen",
+      "url": "assets/scenes/startScreen.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Menu2",
+      "url": "assets/scenes/Menu2.js"
+    },
+    {
+      "type": "animation",
+      "key": "animation",
+      "url": "assets/animation.json"
+    }
+  ]},
+  "meta": {
+    "generated": "1586412014495",
+    "app": "Phaser Editor 2D - Asset Pack Editor - 2.1.6",
+    "contentType": "Phaser v3 Asset Pack",
+    "url": "https://phasereditor2d.com",
+    "version": "2"
+  }
+}

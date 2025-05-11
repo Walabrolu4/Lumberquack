@@ -1,0 +1,31 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.1.6",
+  "-version": 1,
+  "compilerLang": "JAVA_SCRIPT_6",
+  "displayList": {
+    "-id": "c5ce5acf-3d8b-4b05-bf08-2e4b79bdf805",
+    "-type": "DisplayList",
+    "children": [{
+      "-id": "0b28ed20-e30a-4373-b8d4-3385f8684202",
+      "-type": "Sprite",
+      "children": [],
+      "variableName": "menuAnim0000",
+      "variableField": false,
+      "x": 400.0602722167969,
+      "y": 227.58729553222656,
+      "scaleX": 0.9998979568481445,
+      "scaleY": 0.7482229471206665,
+      "textureKey": "MenuAtals",
+      "textureFrame": "menuAnim0000",
+      "autoPlayAnimKey": "lmenuAnim"
+    }]
+  },
+  "groups": {
+    "-id": "4d8b3420-6524-4133-b6a3-0c892dff1d0a",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderHeight": 450,
+  "methodContextType": "SCENE",
+  "sceneKey": "startScreen"
+}

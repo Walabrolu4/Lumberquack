@@ -1,0 +1,1575 @@
+{
+  "textures": [
+    {
+      "image": "MenuAtals1.png",
+      "frames": [
+        {
+          "filename": "menuAnim0000",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0001",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0002",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0003",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0004",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0005",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals2.png",
+      "frames": [
+        {
+          "filename": "menuAnim0006",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0009",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0011",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0007",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0008",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0010",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals3.png",
+      "frames": [
+        {
+          "filename": "menuAnim0012",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0016",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0017",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0015",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0013",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0014",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals4.png",
+      "frames": [
+        {
+          "filename": "menuAnim0018",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0022",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0019",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0023",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0020",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0021",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals5.png",
+      "frames": [
+        {
+          "filename": "menuAnim0024",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0026",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0025",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals6.png",
+      "frames": [
+        {
+          "filename": "menuAnim0027",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0030",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0029",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0032",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0038",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0035",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0037",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0040",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0033",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0041",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0028",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0031",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0034",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0036",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0039",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals7.png",
+      "frames": [
+        {
+          "filename": "menuAnim0042",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0043",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0044",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0045",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0047",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0046",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals8.png",
+      "frames": [
+        {
+          "filename": "menuAnim0048",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0050",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0051",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0049",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0052",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0053",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals9.png",
+      "frames": [
+        {
+          "filename": "menuAnim0054",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0058",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0059",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0055",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0057",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0056",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals10.png",
+      "frames": [
+        {
+          "filename": "menuAnim0060",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0064",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0065",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0061",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0063",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0062",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    },
+    {
+      "image": "MenuAtals11.png",
+      "frames": [
+        {
+          "filename": "menuAnim0066",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0070",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0071",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0067",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0068",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "filename": "menuAnim0069",
+          "trimmed": true,
+          "rotated": false,
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 800,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600
+          },
+          "sourceSize": {
+            "w": 800,
+            "h": 600
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}

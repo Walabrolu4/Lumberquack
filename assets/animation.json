@@ -1,0 +1,300 @@
+{
+  "anims": [{
+    "key": "lmenuAnim",
+    "frameRate": 24,
+    "frames": [
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0000"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0001"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0002"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0003"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0004"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0005"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0006"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0007"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0008"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0009"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0010"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0011"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0012"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0013"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0014"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0015"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0016"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0017"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0018"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0019"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0020"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0021"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0022"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0023"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0024"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0025"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0026"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0027"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0028"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0029"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0030"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0031"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0032"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0033"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0034"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0035"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0036"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0037"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0038"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0039"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0040"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0041"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0042"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0043"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0044"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0045"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0046"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0047"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0048"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0049"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0050"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0051"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0052"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0053"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0054"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0055"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0056"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0057"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0058"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0059"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0060"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0061"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0062"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0063"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0064"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0065"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0066"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0067"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0068"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0069"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0070"
+      },
+      {
+        "key": "MenuAtals",
+        "frame": "menuAnim0071"
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor v2",
+    "contentType": "Phaser v3 Animations"
+  }
+}
